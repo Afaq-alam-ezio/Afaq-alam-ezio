@@ -1,5 +1,5 @@
 # 💫 About Me:
-Turning coffee ☕ into scalable Spring Boot + React applications<br><br>👯 I’m looking to collaborate on<br>Open-source projects and real-world full-stack apps<br><br>🤝 I’m looking for help with<br>System Design, scalable backend architecture<br><br>🌱 I’m currently learning<br>Advanced DSA, System Design, and Backend Optimization<br><br>💬 Ask me about<br>Java, Spring Boot, React, REST APIs — or why my code worked yesterday<br><br>⚡ Fun fact<br>I enjoy backend logic more than UI design 😄
+Turning coffee ☕ (Java) into scalable Spring Boot + React applications<br><br>👯 I’m looking to collaborate on<br>Open-source projects and real-world full-stack apps<br><br>🤝 I’m looking for help with<br>System Design, scalable backend architecture<br><br>🌱 I’m currently learning<br>Advanced DSA, System Design, and Backend Optimization<br><br>💬 Ask me about<br>Java, Spring Boot, React, REST APIs — or why my code worked yesterday<br><br>⚡ Fun fact<br>I enjoy backend logic more than UI design 😄
 
 
 ## 🌐 Socials:
